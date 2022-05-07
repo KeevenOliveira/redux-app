@@ -1,0 +1,30 @@
+.sessionCounter {
+    background-color: #001D3D;
+    color: #fff;
+    min-width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    min-height: 80px;
+    border-radius: 50px;
+}
+
+.quantityStyle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+    min-width: 70px;
+    border-radius: 50px;
+    background-color: #FFC300;
+    min-height: 70px;
+    color: #000;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.lessStyle,
+.moreStyle {
+    font-size: 25px;
+    cursor: pointer;
+}

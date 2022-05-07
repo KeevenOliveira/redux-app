@@ -1,0 +1,12 @@
+.headerStyle {
+    background-color: #003566;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 7vh;
+}
+
+.iconCart {
+    margin-right: 2em;
+}
