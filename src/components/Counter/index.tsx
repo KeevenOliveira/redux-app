@@ -18,9 +18,6 @@ const Counter = () => {
             dispatch(decrement())
     }
 
-    // console.log("dispatch", dispatch);
-    console.log("count", count);
-
     return (
         <section className="sessionCounter">
             <p className="moreStyle" onClick={decrementCount}> - </p>
