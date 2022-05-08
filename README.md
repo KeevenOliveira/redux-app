@@ -1,3 +1,8 @@
+
+<div style="display: flex; justify-content: center">
+    <img style="max-width:400px; border-radius: 10px" center src="./src/assets/photograph.png">
+</div>
+
 # Table of Contents
 1. [Redux Content](#redux-content);
 2. [How to implement redux in your application?](#how-to-implement)
