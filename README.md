@@ -4,9 +4,9 @@
 
 ## Redux Content
 
-> __Documentation [here]("https://redux.js.org/")__
+> __Documentation [here](https://redux.js.org/)__
 
-This project use Redux to learn more about [Redux]("https://redux.js.org/").💻
+This project use Redux to learn more about [Redux](https://redux.js.org/).💻
 
 Redux is a technology to management of state.📚
 In my case, I use to create a _Counter_ and list this result to _Cart_ state.
@@ -14,7 +14,7 @@ In my case, I use to create a _Counter_ and list this result to _Cart_ state.
 ## How to implement?
 
 - 🤗 In first case, create new folder and this folder you have create an `Store` to implement 'configureStore';
-This configuration is to your Redux Store, [see here for more]("https://redux.js.org/api/store");
+This configuration is to your Redux Store, [see here for more](https://redux.js.org/api/store);
 
 - ✅ In next step, you have import in your `index.tsx/index.jsx` (main file) the _Provider_. It's a container to set the `store` that your create in first case.
 
